@@ -1,1 +1,2 @@
+Hello...this is an example text file. Testing again merging conflict.
 Hello...this is an example text file. Testing merging conflicts
